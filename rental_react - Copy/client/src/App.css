@@ -1,0 +1,155 @@
+.pad{
+  padding-top: 100px;
+  margin-left: 200px;
+}
+.button{
+  background-color: transparent;
+  border-style: none;
+}
+
+.font{
+  font-size: 18px;
+  font-family: Comic Sans;
+}
+.column {
+  float: left;
+  width: 25%;
+  /* padding: 10px; */
+  /* height: 300px;  */
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.myform{
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 1rem;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+  pointer-events: auto;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid rgba(0,0,0,.2);
+  border-radius: 1.1rem;
+  outline: 0;
+  max-width: 500px;
+}
+.login-or {
+  position: relative;
+  color: #aaa;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.span-or {
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: -2px;
+  margin-left: -25px;
+  background-color: #fff;
+  width: 50px;
+  text-align: center;
+}
+
+.hr-or {
+  height: 1px;
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
+.a{
+  text-decoration:none !important;
+}
+.h1{
+  font-family: 'Kaushan Script', cursive;
+}
+.h2{
+  font-family: 'Kaushan Script', cursive;
+}
+.h3{
+  font-family: 'Kaushan Script', cursive;
+}
+.button1{
+  background-color: transparent;
+  border-style: none;
+  border-color:transparent;
+}
+/* .button1:hover{
+  background-color: transparent;
+  border-style: none;
+} */
+.img_top{
+  margin-top: 50px;
+}
+.back-img{
+  background-image: url("https://preview.redq.io/turbo/car-deal-two/wp-content/uploads/sites/6/2018/10/block-image1.jpg");
+  
+  height: 430px;
+  width: 500px;
+  
+}
+.front-img{
+  margin-left: 100px;
+  margin-bottom: 350px;
+}
+.img:hover{
+  box-shadow:10px 10px aliceblue;
+  
+}
+
+.column {
+  float: left;
+  width: 25%;
+  /* padding: 10px; */
+  /* height: 300px;  */
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.pad{
+  padding-top: 100px;
+  margin-left: 200px;
+}
+.button{
+  background-color: transparent;
+  border-style: none;
+}
+.number-button{
+  background-color: transparent;
+  border-style: none;
+}
+.number-button:hover{
+  background-color: transparent;
+  color: blue;
+  text-decoration: underline;
+}
+.column {
+  float: left;
+  width: 25%;
+  /* padding: 10px; */
+  /* height: 300px;  */
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.change-button{
+  background-color: transparent;
+  border-style: none;
+}
+.change-button:hover{
+  background-color: transparent;
+  color: blue;
+  text-decoration: underline;
+}
+.bt1:hover{
+  color: white;
+}
